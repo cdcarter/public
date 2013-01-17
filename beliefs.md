@@ -30,6 +30,7 @@
 * You cannot be healthy without good food, real exercise, enough sleep, and someone to challenge you.
 * The best meals are ones you cook yourself, for your friends.
 * Eating is not a solitary activity.
+* It is okay to eat animals. 
 
 ## The Brain
 * It's impressive that brains even exist.
