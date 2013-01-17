@@ -5,3 +5,4 @@
 * Existentialism as a humanism
 * Strong language
 * Mutual understanding and respect among lovers
+* Being "Not Dead"
