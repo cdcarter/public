@@ -1,0 +1,7 @@
+# Personal Values
+
+* Cultural literacy
+* Good taste
+* Existentialism as a humanism
+* Strong language
+* Mutual understanding and respect among lovers
