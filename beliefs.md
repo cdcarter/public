@@ -9,7 +9,8 @@
 * Humor comes from truth in difference.
 * The best comedy is something that merges high-brow and low-brow, but isn't an awkward middle-brow compromise.
 * Words are incredibly interesting.
-* Miracles are all around. The world is filled with magic and mystery, and that's incredible.
+* Miracles are all around. The world is filled with magic and mystery.
+* It's absolutely incredibly how an average person can have an average life, in spite of everything.
 
 ## How to live
 * A man should have a mystery about him, how he does all that he does. (thanks @zackshapiro)
@@ -27,6 +28,12 @@
 * Diets are probably bad for you.
 * Additives and food processes are definitely bad for you.
 * You cannot be healthy without good food, real exercise, enough sleep, and someone to challenge you.
+# The best meals are ones you cook yourself, for your friends.
+# Eating is not a solitary activity.
+
+## The Brain
+* It's impressive that brains even exist.
+* Depression and anxiety are not to be considered "just a part of who you are", because that implies that treating them is removing a part of natural you.
 
 ## People and Relationships
 * Relationships are systems of mutual understanding and respect. 
