@@ -41,9 +41,11 @@
 * You need to talk to the people who are working for you.
 * The best way to get someone to help you is to present them with exactly what you need them to do, in a nice font. 
 * To manage someone, you need to know how they want to be praised and disciplined.
+* There is nothing you can tell your heart to make it die. (via You Are Not Dead)
 
 ## Spirituality
 * Remeber, we all die. (thanks @busterbenson)
+* I am not dead.
 * I believe in God, I'm just not sure what to do with that belief yet. (thanks, @zackshapiro)
 * There is no difference between the soul and the person, the mind and the brain. We are what we are physically.
 * I am.
