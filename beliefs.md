@@ -11,6 +11,7 @@
 * Words are incredibly interesting.
 * Miracles are all around. The world is filled with magic and majesty.
 * It's absolutely incredibly how an average person can have an average life, in spite of everything.
+* Everyone has the right to derive meaning and entertainment from any distinct piece of culture, regardless of background or sociological understanding.
 
 ## How to live
 * A man should have a mystery about him, how he does all that he does. (thanks @zackshapiro)
