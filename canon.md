@@ -6,6 +6,8 @@
 * [Having A Coke With You][coke] - Frank O'Hara
 * [Oh The Humanity, and other good intentions][humanity] - Will Eno (script on Amazon)
 * [This Year][thisyear] - The Mountain Goats (video)
+* [New Years Rulin's][guthrie] - Woody Guthrie
+* [A Pattern Language][pattern] - Christopher Alexander (wikipedia entry)
 
 [fish]: http://grammar.about.com/od/classicessays/a/Look-At-Your-Fish-By-Samuel-H-Scudder.htm
 [codep]: http://youarenotdead.com/2011/06/7-declaring-your-codependence/
@@ -13,3 +15,5 @@
 [coke]: http://readalittlepoetry.wordpress.com/2010/12/17/having-a-coke-with-you-by-frank-ohara/
 [humanity]: http://www.amazon.com/Oh-Humanity-Play-Acting-Edition/dp/B001O4VNHK
 [thisyear]: http://www.youtube.com/watch?v=ii6kJaGiRaI
+[guthrie]: http://www.listsofnote.com/2011/12/new-years-rulins.html
+[pattern]: http://en.wikipedia.org/wiki/A_Pattern_Language
