@@ -3,7 +3,7 @@
 
 ## Art
 * Storytelling is the best form of communication.
-* If you can't tell a story in under 90 minutes, you're telling more than one story, and you need to be mindful of it.
+* If you can't tell a story in under 90 minutes, you're telling more than one story, and you need to be mindful of that.
 * We tell stories to create meaning.
 * Art has three components that make it such; content, form, and meaning.
 * Humor comes from truth in difference.
@@ -36,6 +36,12 @@
 ## The Brain
 * It's impressive that brains even exist.
 * Depression and anxiety are not to be considered "just a part of who you are", because that implies that treating them is removing a part of natural you.
+* It's funny to think I even know what I believe!
+
+## Home
+* Home is the place that I have a bed, and know I can go to no matter what happens.
+* I'm not ready to call a place Home yet.
+* When I am ready, and I have found the place, I will know what Home is.
 
 ## People and Relationships
 * Relationships are systems of mutual understanding and respect. 
@@ -55,6 +61,7 @@
 ## Philosophy and Morality
 * The concept of "knowing something" is hard to unravel, but the key to existing is believing you know something.
 * Existentialism IS a humanism.
+* I may not have the capacity to freely make choices, but I do have the freedom to interpret the world however.
 * Free will is an illusion.
 * Addicts do not bear full responsibility for their addict-actions.
 * Hedonism makes sense.
