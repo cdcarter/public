@@ -23,6 +23,7 @@
 * Play the hero.
 * I derive meaning in a seemingly meaningless life through my interactions with others.
 * Behavior change is belief change. But we can change.
+* Pretending you know what you’re doing is almost the same as knowing what you are doing, so just accept that you know what you’re doing even if you don’t and do it. (via Done Manifesto)
 
 ### Food and the Body
 * Food is our most important connection to the world around us.
