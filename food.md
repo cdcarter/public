@@ -6,6 +6,7 @@
 * Toaster waffle with peanut butter and raisins
 * crusty bread, brie, and jam
 * toast with ricotta, grapes, honey
+* crostini w/ fig jam, goat cheese, proscuitto
 
 ## Some Effort Required
 * ABC Melts (english muffin/biscuit, mustard, bacon, apple, cheese) http://www.tasteofhome.com/Recipes/ABC-Melt
