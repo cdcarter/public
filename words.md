@@ -1,4 +1,3 @@
-* "And you think maybe they really and truly do sincerely want to know your life story, and so you light up a cigarette and begin to tell it to them" - Tennessee Williams
 * "That’s not so terrible, even for the selfish, and commitment isn’t about increasing your burden by taking on another’s, but exchanging support and helping each other achieve joy." - You Are Not Dead
 * "Skilled with detecting condescension and deceit, you must approach dilemma with a system of honest inquiry. You must strive for wellness not with the premise that you want to be better or to perform your best, but with the acknowledgment you are broken and just want to be good." - You Are Not Dead
 * "You want more than a series of attachments to and detachments from this world. You want understanding—and the assurance you’ll be all right. You Will. You Always Were. You Are." - You Are Not Dead
@@ -21,6 +20,8 @@ Most people, at one time or another,
 will confuse love with emotional dependency.
 Some people can be much happier single than married.
 Not everyone who loves, loves well, nor ever learns how to love well
+
+* "And you think maybe they really and truly do sincerely want to know your life story, and so you light up a cigarette and begin to tell it to them" - Tennessee Williams
 
 > You see, you could come to love me.
 I'm crazy about you, Harold,
