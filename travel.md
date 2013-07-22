@@ -1,8 +1,9 @@
 # Since Finishing Undergrad - May 12th, 2013
+## As of Jul 21, 2013. 71 Days.
 
 ## Miles travelled
 
-### Total: 9019
+### Total: 9487
 
 ### First relocation
 * 1126 miles from Boston to Minneapolis (by plane)
@@ -19,6 +20,8 @@
 * 548 miles doing company business for Contemporary American Theater Festival (by car)
 * 463 miles doing major pickups for Contemporary American Theater Festival (by truck)
 * 147 miles adventuring with other people's vehicles (by car)
+* 465 miles human powered (by foot)
+* 3.2 miles floating on the Potomac (by tube)
 
 ## Places I've slept
 * Eau Claire, WI
