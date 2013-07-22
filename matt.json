@@ -1,0 +1,78 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.983604,
+                    40.719975,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Stacy's Apartment",
+                "description": "New York, NY 10002<br><img src=\"https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=40.719975,-73.983601&amp;thumb=0\">"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.93541,
+                    40.666965,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Brooklyn Apartment",
+                "description": "Brooklyn, NY 11213<br><img src=\"https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=40.666964,-73.935407&amp;thumb=0\">"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.070625,
+                    42.348415,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "21 Cortes St",
+                "description": "Boston, MA 02116<br><img src=\"https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=42.348415,-71.070624&amp;thumb=0\">"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.794678,
+                    32.784676,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sheraton Dallas Hotel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.842239,
+                    39.304226,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Holiday Inn, West Virginia"
+            }
+        }
+    ]
+}
