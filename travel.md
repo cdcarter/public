@@ -32,7 +32,7 @@
 * Dallas, TX
 * Ranson, WV
 
-## Vehichles Traveled In
+## Vehicles Traveled In
 * Three airplanes
 * Penske 16' Truck
 * Uhaul 10' Truck
