@@ -2,6 +2,8 @@
 
 ## Miles travelled
 
+### Total: 9019
+
 ### First relocation
 * 1126 miles from Boston to Minneapolis (by plane)
 * 1890 miles from Minneapolis to Shepherdstown (by car)
