@@ -3,7 +3,7 @@
 
 ## Miles travelled
 
-### Total: 9487
+### Total: 12659
 
 ### First relocation
 * 1126 miles from Boston to Minneapolis (by plane)
@@ -22,6 +22,16 @@
 * 147 miles adventuring with other people's vehicles (by car)
 * 465 miles human powered (by foot)
 * 3.2 miles floating on the Potomac (by tube)
+
+### Shepherdstown to Minneapolis
+* 1040 miles from Shepherdstown to Minneapolis (by car)
+
+### Life in Minneapolis
+
+
+### Minneapolis to Seattle, WA
+* 2132 miles from Minneapolis to Seattle via Squamish (by car)
+* 
 
 ## Places I've slept
 * Eau Claire, WI
