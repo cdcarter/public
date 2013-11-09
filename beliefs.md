@@ -10,8 +10,9 @@
 * The best comedy is something that merges high-brow and low-brow, but isn't an awkward middle-brow compromise.
 * Words are incredibly interesting.
 * Miracles are all around. The world is filled with magic and majesty.
-* It's absolutely incredibly how an average person can have an average life, in spite of everything.
+* It's absolutely incredibly how an average person can have an average life, in spite of everything. This is a positive thing.
 * Everyone has the right to derive meaning and entertainment from any distinct piece of culture, regardless of background or sociological understanding.
+* The most important thing we can do is to create community.
 
 ## How to live
 * A man should have a mystery about him, how he does all that he does. (thanks @zackshapiro)
@@ -24,6 +25,7 @@
 * I derive meaning in a seemingly meaningless life through my interactions with others.
 * Behavior change is belief change. But we can change.
 * Pretending you know what you’re doing is almost the same as knowing what you are doing, so just accept that you know what you’re doing even if you don’t and do it. (via Done Manifesto)
+* Where you live is important. Where you call Home is paramount.
 
 ### Food and the Body
 * Food is our most important connection to the world around us.
@@ -40,9 +42,8 @@
 * It's funny to think I even know what I believe!
 
 ## Home
-* Home is the place that I have a bed, and know I can go to no matter what happens.
-* I'm not ready to call a place Home yet.
-* When I am ready, and I have found the place, I will know what Home is.
+* Home is something I am still looking for.
+* Home is often uncomfortable, it's not perfect, and it's not always there. But it's still Home.
 
 ## People and Relationships
 * Relationships are systems of mutual understanding and respect. 
@@ -63,7 +64,7 @@
 * The concept of "knowing something" is hard to unravel, but the key to existing is believing you know something.
 * Existentialism IS a humanism.
 * I may not have the capacity to freely make choices, but I do have the freedom to interpret the world however.
-* Free will is an illusion.
+* Free will, as we know it, is an illusion.
 * Addicts do not bear full responsibility for their addict-actions.
 * Hedonism makes sense.
 * I won't always believe these things.
