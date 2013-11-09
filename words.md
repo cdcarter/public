@@ -35,3 +35,5 @@ and love to do things with you
 and look out for you
 and all that sort of thing
 I think I'm going to become irresistible to you
+
+* "He kept a piece of algae behind his ear to remind him of his roots. A million years ago every place was a little place by the sea, he would say & my mind would go blank & I would swim through the day without a care in the world & it all seemed so familiar that I knew I would go back someday to my own little place by the sea."
