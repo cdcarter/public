@@ -9,6 +9,7 @@
 * [New Years Rulin's][guthrie] - Woody Guthrie
 * [A Pattern Language][pattern] - Christopher Alexander (wikipedia entry)
 * [Text Messages from a Ghost][ghost] - Mallory Ortberg
+* [This Is Water][dfw] - David Foster Wallace
 
 [fish]: http://grammar.about.com/od/classicessays/a/Look-At-Your-Fish-By-Samuel-H-Scudder.htm
 [codep]: http://youarenotdead.com/2011/06/7-declaring-your-codependence/
@@ -19,3 +20,4 @@
 [guthrie]: http://www.listsofnote.com/2011/12/new-years-rulins.html
 [pattern]: http://en.wikipedia.org/wiki/A_Pattern_Language
 [ghost]: http://thehairpin.com/2012/02/text-messages-from-a-ghost/
+[dfw]: http://web.ics.purdue.edu/~drkelly/DFWKenyonAddress2005.pdf
