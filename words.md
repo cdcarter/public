@@ -19,7 +19,7 @@ many times love comes, goes, and returns like a breeze.
 Most people, at one time or another, 
 will confuse love with emotional dependency.
 Some people can be much happier single than married.
-Not everyone who loves, loves well, nor ever learns how to love well
+Not everyone who loves, loves well, nor ever learns how to love well - Cafe Variations
 
 * "And you think maybe they really and truly do sincerely want to know your life story, and so you light up a cigarette and begin to tell it to them" - Tennessee Williams
 
@@ -34,6 +34,11 @@ and laugh at your jokes and feel for you
 and love to do things with you
 and look out for you
 and all that sort of thing
-I think I'm going to become irresistible to you
+I think I'm going to become irresistible to you - Cafe Variations
 
-* "He kept a piece of algae behind his ear to remind him of his roots. A million years ago every place was a little place by the sea, he would say & my mind would go blank & I would swim through the day without a care in the world & it all seemed so familiar that I knew I would go back someday to my own little place by the sea."
+* "He kept a piece of algae behind his ear to remind him of his roots. A million years ago every place was a little place by the sea, he would say & my mind would go blank & I would swim through the day without a care in the world & it all seemed so familiar that I knew I would go back someday to my own little place by the sea." - Brian Andreas
+
+* "my hair is getting long and i miss you. the absence of squeaky train cars rattle through the cracks in my bones and i miss you. my shoes are too small for me, they suffocate my feet but i wear them anyway, and i miss you. i kissed a boy and kissed another. i think you’d like them both, and i miss you. i cannot keep my room clean, can’t keep my headphones from tangling and my music from blasting and the pen from bleeding through the page, and the stairs from leading both up and down, and the river from the ocean and the sun from the sky, and i can’t help the fact that i stay up too late every night, and i miss you. i’m clutching the tail end of summer while beckoning the fall, god i thought i was ready to fall but now i know i’m not or i think i’m not, i’m walking around everywhere to avoid everyone and i just really miss you. i haven’t written anything in a long, long time and i miss you. i jumped off a cliff. it took me two whole seconds to fall and right before i hit the water, i missed you. i see so many faces that we would both adore, and every time i see a new one, i miss you. i don’t know what to do with all the new; if i should store it in the pockets of my summer shorts or sew it to the inside of my new october coat or keep it hidden in the lace of my new lingerie that maybe someone will be seeing sometime soon. maybe i’ll unfurl the old and curl up with it into my sheets, wrap myself up in hollow surrender,  breathe it into my pillowcase and play it on my guitar strings because i miss you. your hair changed color and you finally smile with your teeth and now there are more people that will love every part of you, and while they do, just remember that i miss you. TC Mark" - [...and I miss you, Katie Swafford][missyou]
+* "and i sit in the corner table of a starbucks you'll never see and sip on the drink we always shared and i miss you. you haven't seen this new haircut or the way i'm finally growing out my nails. i flip through my favorite book and there's a note from the last time you borrowed it and i miss you. i miss being the most important person, the one who could make you laugh without any hesitation and i miss the way your hands dwarfed mine. i spend a lot of time sleeping these days, scrolling through my playlists before i fall asleep and skipping over the one titled with your name because i miss you and i miss you missing me. we'll both move on soon, i'm sure, and there will be a different girl who proudly shoulders the label of best friend and i'll be here a thousand miles away kissing someone you'll never meet along the river walk on a thursday. and even though i'll move on and you'll move on, i still miss you." - addition to previous poem, author unknown
+
+[missyou]: http://thoughtcatalog.com/katie-swafford/2012/09/and-i-miss-you/
