@@ -1,5 +1,26 @@
-Music
+music
 ======
 This is a document of arresting songs. Songs are in some attempt of chronological order as to when I found them, or moreover, when I noticed them.
 
 * [Golden City - Matrimony](http://open.spotify.com/track/1aOFpymjhAw8M2eyM9QZ83)
+* [Plage - Crystal Fighters](http://open.spotify.com/track/71GqP05AEkzTSSKbNx6HAR)
+* [Complicated Creation - Cloud Cult](http://open.spotify.com/track/0Yqxl7EG9sI9vAtN3TGFL3)
+* [A Curse Worth Believing - Into it. Over It.](http://open.spotify.com/track/6pSiJQ6E8v0U9OA2MlNDFG)
+* [Barbarosa - Little Sur](http://open.spotify.com/track/4juYi2NpaQ3VQqEmuJVhzn)
+* [Falling - Haim](http://open.spotify.com/track/5wL742yBgvtbw1IibA3FMJ)
+* [Friends and Family - River City Extension](http://open.spotify.com/track/3oHKra46Z5ioiPE8FG04cJ)
+* [1957 - Milo Greene](http://open.spotify.com/track/08cXy6KUizaAelYXtcew3w)
+* [This Too Shall Pass - Danny Schmidt](http://open.spotify.com/track/3ZHdUTURQRucGdzVXeDpsU)
+* [Islands - Hey Ocean!](http://open.spotify.com/track/6QejNKLkSVY4Kqt3w5numd)
+* [You Were A House On Fire - Listener](http://open.spotify.com/track/6AAPXkcmhM6RH7lhzYo99r)
+* [It's Around You - ANR](http://open.spotify.com/track/1KiwKh6vtYkFAuOmbsbCLb)
+* [Journey of the Featherless - Cloud Cult](http://open.spotify.com/track/6IcPYZlNdWHSDPqWUbhEHi)
+* [The House That Heaven Built - Japandroids](http://open.spotify.com/track/2dcmQJCw1INGn7yR2KHx0U)
+* [Up Up Up - Givers](http://open.spotify.com/track/3QnLSwpsMgFRBhswQ0Kv4u)
+* [Out On The Town - Fun.](http://open.spotify.com/track/23wTcSwRHu8E513oeri4xK)
+* [VCR - The xx](http://open.spotify.com/track/4vU90MimdQpV2e1wPi1ljJ)
+* [Lots - Dan Deacon](http://open.spotify.com/track/2kdyX6AyUNwtGsLbAET1Sc)
+* [In Our Bedroom After The War - Stars](http://open.spotify.com/track/4iwHEbB8uAWqv6HmwYvnfo)
+* [Swim Until You Can't See Land - Frightened Rabbit](http://open.spotify.com/track/3QPpaGoNcvZfcp4kcsXrYU)
+* [Down by the Water - The Drums](http://open.spotify.com/track/1arN9u9qSFY6FJkbUkKKHq)
+* [Carby - Discovery](http://open.spotify.com/track/1Woix8PPwCsKjSxeNFcoax)
