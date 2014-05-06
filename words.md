@@ -46,5 +46,8 @@ I think I'm going to become irresistible to you - Cafe Variations
 
 * "“We waste so much energy trying to cover up who we are when beneath every attitude is the want to be loved, and beneath every anger is a wound to be healed and beneath every sadness is the fear that there will not be enough time. When we hesitate in being direct, we unknowingly slip something on, some added layer of protection that keeps us from feeling the world, and often that thin covering is the beginning of a loneliness which, if not put down, diminishes our chances of joy. It’s like wearing gloves every time we touch something, and then, forgetting we chose to put them on, we complain that nothing feels quite real. Our challenge each day is not to get dressed to face the world but to unglove ourselves so that the doorknob feels cold and the car handle feels wet and the kiss goodbye feels like the lips of another being, soft and unrepeatable.”" ― Mark Nepo, The Book of Awakening: Having the Life You Want by Being Present to the Life You Have
 
+* "Because it was a day we contacted people we no longer loved even though we once often told them we loved them, my ex started chatting with me online." -- Allegra Lingo, ["beacuse it was a day"][day]
+
 [missyou]: http://thoughtcatalog.com/katie-swafford/2012/09/and-i-miss-you/
 [bus]:http://thoughtcatalog.com/omar-de-col/2013/01/thoughts-i-done-had-on-bus/
+[day]:http://www.around-around.com/day-2/
