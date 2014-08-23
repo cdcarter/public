@@ -13,7 +13,8 @@
 * Miracles are all around. The world is filled with magic and majesty.
 * It's absolutely incredibly how an average person can have an average life, in spite of everything. 
 * That is a positive thing.
-* Everyone has the right to derive meaning and entertainment from any distinct piece of culture, regardless of background or sociological understanding.
+* Everyone has the right to derive meaning and entertainment from any distinct piece of culture, regardless of background or sociological understanding. 
+* Everyone has the right to take issue with any distinct piece of culture, regardless of background or sociological understanding.
 * The most important thing we can do is to create community.
 
 ## How to live
